@@ -4,7 +4,7 @@
 ## Команда авторов
 
 - [Илья Нефёдов](https://github.com/ilyaniafiodau)
-- [Анна Исаева]()
+- [Анна Исаева](https://github.com/cr3at1v3annis)
 - [Анна Панкратова](https://github.com/iamDolorem)
 - [Александр Обехов]()
 - [Владислав Орешко]()
